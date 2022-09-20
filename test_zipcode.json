@@ -1,0 +1,15 @@
+{
+  "country abbreviation": "US",
+  "places": [
+    {
+      "place name": "Patterson",
+      "longitude": "-121.1648",
+      "post code": "95363",
+      "latitude": "37.4826"
+    }
+  ],
+  "country": "United States",
+  "place name": "Patterson",
+  "state": "California",
+  "state abbreviation": "CA"
+}
